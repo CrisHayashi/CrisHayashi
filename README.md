@@ -3,6 +3,7 @@
 ## Empresária | Desenvolvedora em formação | Inovação em gestão e tecnologia
 
 Atualmente, sou **diretora executiva** de uma empresa de administração de imóveis, com mais de 20 anos de experiência em gestão empresarial, análise de mercado e operações no varejo.  
+
 💻 Estou em transição para a área de **tecnologia**, cursando **Análise e Desenvolvimento de Sistemas** e desenvolvendo projetos práticos de software com foco em soluções digitais inteligentes.
 
 🎯 Objetivo atual: Atuar em projetos que unam administração de imóveis e tecnologia, contribuindo com minha experiência empresarial para otimizar sistemas, processos e decisões de negócio, enquanto continuo evoluindo como desenvolvedora.
