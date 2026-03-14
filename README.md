@@ -93,15 +93,16 @@ Tecnologias:
 
 ---
 
-# 🧠 Tecnologias em Aprendizado
+# 🧠 Tecnologias
 
-- JavaScript
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
+![Kotlin](https://img.shields.io/badge/Kotlin-000?logo=kotlin)
+![NodeJS](https://img.shields.io/badge/Node.js-000?logo=node.js)
+![Git](https://img.shields.io/badge/Git-000?logo=git)
+![SQL](https://img.shields.io/badge/SQL-000?logo=postgresql)
 - Java
-- Kotlin
 - C / C++
-- SQL Server
 - HTML & CSS
-- Git & GitHub
 - APIs REST
 - Android Development
 - Sistemas Embarcados (IoT)
