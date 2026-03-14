@@ -1,58 +1,184 @@
 # 👩‍💼 Cristiane Hayashi Vasconcelos Lima
 
-## Empresária | Desenvolvedora em formação | Inovação em gestão e tecnologia
+## Business Executive • Software Developer in Training • Technology & Innovation
 
-Atualmente, sou **diretora executiva** de uma empresa de administração de imóveis, com mais de 20 anos de experiência em gestão empresarial, análise de mercado e operações no varejo.  
+Profissional com mais de **20 anos de experiência em gestão empresarial**, atualmente se aprimorando na área de **Tecnologia da Informação**.
 
-💻 Estou em transição para a área de **tecnologia**, cursando **Análise e Desenvolvimento de Sistemas** e desenvolvendo projetos práticos de software com foco em soluções digitais inteligentes.
+Sou **Vice-Diretora** numa empresa de administração imobiliária e estudante de **Análise e Desenvolvimento de Sistemas**, desenvolvendo projetos práticos em software, automação e sistemas inteligentes.
 
-🎯 Objetivo atual: Atuar em projetos que unam administração de imóveis e tecnologia, contribuindo com minha experiência empresarial para otimizar sistemas, processos e decisões de negócio, enquanto continuo evoluindo como desenvolvedora.
+Tenho interesse em projetos que conectem **negócio, tecnologia e inovação**, especialmente nas áreas de:
 
----
-
-### 💼 Experiência Profissional
-
-- **Vice-presidente Executiva / Diretora Executiva – Vasconcelos Costa Emp. e Part. Ltda**  (2003 - atual)
-  Gestão de operações, recursos e estratégia em administração imobiliária, análise de mercado, acompanhamento de obras, administração de aluguéis, entre outras funções estratégicas.
-
-- **Associada Estratégica – Loginveste Condomínio Logístico**  (2021 - atual)
-  Suporte à operação e gestão de centro logístico com foco em resultados e eficiência operacional.
-
-- **Assistente Administrativa – Esposende Calçados**  (1998 - 2005)
-  Atuação multifuncional (financeiro, contábil, DP, logística, lojas), com desenvolvimento de relatórios, viabilidade de negócios e liderança operacional.
+- Sistemas de gestão
+- Automação de processos
+- Soluções digitais para o setor imobiliário e logístico
+- Tomada de decisão baseada em tecnologia
 
 ---
 
-### 👩‍🎓 Formação
+# 🚀 Projetos Realizados
 
-- 📚 **Faculdade Nova Roma** — *Cursando* Análise e Desenvolvimento de Sistemas (2024 - atual)
-- 🎓 **Bay State College – EUA** — Associate Degree em Administração e Varejo (2002 - 2004)
-- 🎓 **Universidade Católica de Pernambuco** — Bacharel em Administração (Láurea Acadêmica) (1998 - 2001)
-  
+### 📱 List Wise
+Aplicativo mobile para **gestão inteligente de listas de compras**, com foco em organização doméstica e experiência do usuário.
 
----
-
-### 🧠 Tecnologias que estou aprendendo
-
-- JavaScript | Java | C | SQL Server  
-- HTML, CSS, GitHub e ferramentas de versionamento  
-- Desenvolvimento de APIs, projetos fullstack e documentação de sistemas
+Tecnologias:
+- Kotlin
+- Android Studio
+- SQLite
+- UI/UX Design
 
 ---
 
-### 🚀 Projetos
+### 🔐 Sistema de Controle de Acesso (ESP32)
 
-- 📄 [Let's Burguer]: Documentação completa para um sistema de gestão de hamburgueria, incluindo levantamento e análise de requisitos, casos de uso e estrutura funcional do sistema.
-- 🔍 Projeto **PesquisaCEP**: Aplicação frontend que consome a API ViaCEP para pesquisa de endereços. Desenvolvida com HTML, CSS e JavaScript.
-- 🐾 Sistema PetShop (em desenvolvimento): Aplicação completa com backend em Node.js e frontend dinâmico, sistema de autenticação JWT, funcionalidades CRUD, dashboard com gráficos e integração de bibliotecas modernas (SweetAlert, Chart.js, IMask). Projeto em breve no GitHub.
+Sistema embarcado de **controle de acesso físico**, utilizando microcontrolador ESP32.
+
+Recursos:
+- Autenticação por senha
+- Controle de servo motor (abertura de acesso)
+- Feedback visual e sonoro
+- Registro de eventos
+
+Tecnologias:
+- C++
+- ESP32
+- Keypad
+- Servo Motor
+- LCD I2C
 
 ---
 
-### 📫 Contato
+### 🔎 PesquisaCEP
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/cristiane-hayashi-vasconcelos-lima-999802199)
-- ✉️ cristiane.lima@faculdadenovaroma.com.br
+Aplicação web que consome a **API ViaCEP** para consulta de endereços.
+
+Tecnologias:
+- HTML
+- CSS
+- JavaScript
+- API REST
 
 ---
+
+### 🍔 Let's Burguer
+
+Projeto de **análise e documentação de sistema**, com levantamento de requisitos e modelagem funcional para sistema de gestão de hamburgueria.
+
+Inclui:
+
+- Requisitos funcionais
+- Casos de uso
+- Estrutura do sistema
+- Documentação técnica
+
+---
+
+### 🐾 Sistema PetShop
+
+Aplicação **fullstack** para gestão de pet shop.
+
+Recursos planejados:
+
+- Autenticação com JWT
+- CRUD completo
+- Dashboard com gráficos
+- Interface moderna
+
+Tecnologias:
+
+- Node.js
+- JavaScript
+- Chart.js
+- SweetAlert
+- IMask
+
+---
+
+# 🧠 Tecnologias em Aprendizado
+
+- JavaScript
+- Java
+- Kotlin
+- C / C++
+- SQL Server
+- HTML & CSS
+- Git & GitHub
+- APIs REST
+- Android Development
+- Sistemas Embarcados (IoT)
+- Inteligência Artificial
+
+---
+
+# 💼 Experiência Profissional
+
+### Vice-Presidente / Diretora Executiva  
+**Vasconcelos Costa Empreendimentos e Participações Ltda**  
+2003 – Atual
+
+- Gestão estratégica e operacional
+- Administração imobiliária
+- Análise de mercado
+- Acompanhamento de obras
+- Gestão de locações e ativos imobiliários
+
+---
+
+### Associada Estratégica  
+**Loginveste Condomínio Logístico**  
+2021 – Atual
+
+Atuação no suporte à gestão de condomínio logístico com foco em:
+
+- Eficiência operacional
+- Organização de processos
+- Gestão de fornecedores
+- Análise administrativa
+
+---
+
+### Assistente Administrativa  
+**Esposende Calçados**  
+1998 – 2005
+
+Atuação multifuncional em:
+
+- Financeiro
+- Compras
+- Departamento pessoal
+- Logística
+- Operações de loja
+- Relatórios gerenciais
+
+---
+
+# 🎓 Formação
+
+**Faculdade Nova Roma**  
+Análise e Desenvolvimento de Sistemas *(em andamento)*  
+2024 – atual
+
+**Bay State College – Boston (EUA)**  
+Associate Degree – Administração e Varejo  
+2002 – 2004
+
+**Universidade Católica de Pernambuco**  
+Bacharelado em Administração  
+Láurea Acadêmica
+
+---
+
+# 🎯 Objetivo Profissional
+
+Atuar em projetos que integrem **gestão empresarial e tecnologia**, desenvolvendo soluções que melhorem processos, sistemas e tomada de decisão em organizações.
+
+---
+
+# 📫 Contato
+
+💼 LinkedIn  
+https://www.linkedin.com/in/cristiane-hayashi-vasconcelos-lima-999802199
+
+✉️ Email  
+cristiane.lima@faculdadenovaroma.com.br
 
 
