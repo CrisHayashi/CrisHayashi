@@ -2,7 +2,7 @@
 
 ## Business Executive • Software Developer in Training • Technology & Innovation
 
-Profissional com mais de **20 anos de experiência em gestão empresarial**, atualmente se aprimorando na área de **Tecnologia da Informação**.
+Profissional com mais de **25 anos de experiência em gestão empresarial**, atualmente se aprimorando na área de **Tecnologia da Informação**.
 
 Sou **Vice-Diretora** numa empresa de administração imobiliária e estudante de **Análise e Desenvolvimento de Sistemas**, desenvolvendo projetos práticos em software, automação e sistemas inteligentes.
 
@@ -15,20 +15,16 @@ Tenho interesse em projetos que conectem **negócio, tecnologia e inovação**, 
 
 ---
 
-# 🚀 Projetos Realizados
+# 🚀 Projetos
 
 ### 📱 List Wise
 Aplicativo mobile para **gestão inteligente de listas de compras**, com foco em organização doméstica e experiência do usuário.
 
-Tecnologias:
-- Kotlin
-- Android Studio
-- SQLite
-- UI/UX Design
+Tecnologias: Kotlin • Android Studio • SQLite
 
 ---
 
-### 🔐 Sistema de Controle de Acesso (ESP32)
+### 🔐 Sistema de Controle de Acesso com ESP32
 
 Sistema embarcado de **controle de acesso físico**, utilizando microcontrolador ESP32.
 
@@ -38,12 +34,7 @@ Recursos:
 - Feedback visual e sonoro
 - Registro de eventos
 
-Tecnologias:
-- C++
-- ESP32
-- Keypad
-- Servo Motor
-- LCD I2C
+Tecnologias: C++ • ESP32 • Keypad • LCD • Servo Motor
 
 ---
 
@@ -51,23 +42,19 @@ Tecnologias:
 
 Aplicação web que consome a **API ViaCEP** para consulta de endereços.
 
-Tecnologias:
-- HTML
-- CSS
-- JavaScript
-- API REST
+Tecnologias: HTML • CSS • JavaScript • API REST
 
 ---
 
 ### 🍔 Let's Burguer
 
-Projeto de **análise e documentação de sistema**, com levantamento de requisitos e modelagem funcional para sistema de gestão de hamburgueria.
+Projeto de **análise e documentação de sistema**, para gestão de hamburgueria.
 
 Inclui:
 
 - Requisitos funcionais
 - Casos de uso
-- Estrutura do sistema
+- Estrutura funcional do sistema
 - Documentação técnica
 
 ---
@@ -83,30 +70,60 @@ Recursos planejados:
 - Dashboard com gráficos
 - Interface moderna
 
-Tecnologias:
-
-- Node.js
-- JavaScript
-- Chart.js
-- SweetAlert
-- IMask
+Tecnologias: Node.js • JavaScript • Chart.js • SweetAlert • IMask
 
 ---
 
 # 🧠 Tecnologias
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
-![Kotlin](https://img.shields.io/badge/Kotlin-000?logo=kotlin)
-![NodeJS](https://img.shields.io/badge/Node.js-000?logo=node.js)
-![Git](https://img.shields.io/badge/Git-000?logo=git)
-![SQL](https://img.shields.io/badge/SQL-000?logo=postgresql)
-- Java
-- C / C++
-- HTML & CSS
-- APIs REST
-- Android Development
-- Sistemas Embarcados (IoT)
-- Inteligência Artificial
+## Linguagens
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+## Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/API%20REST-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## Mobile, IoT e Tecnologias
+
+![Android](https://img.shields.io/badge/Android%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![IoT](https://img.shields.io/badge/Embedded%20Systems%20(IoT)-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 📊 Estatísticas GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+
+---
+
+# 🔥 Sequência de commits
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight)
+
+---
+
+# 📈 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
 
 ---
 
@@ -163,8 +180,8 @@ Associate Degree – Administração e Varejo
 2002 – 2004
 
 **Universidade Católica de Pernambuco**  
-Bacharelado em Administração  
-Láurea Acadêmica
+Bacharelado em Administração | Láurea Acadêmica
+1998 - 2001
 
 ---
 
