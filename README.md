@@ -1,5 +1,7 @@
 # 👩‍💼 Cristiane Hayashi Vasconcelos Lima
 
+![Profile Views](https://komarev.com/ghpvc/?username=CrisHayashi&color=blue)
+
 ## Business Executive • Software Developer in Training • Technology & Innovation
 
 Profissional com mais de **25 anos de experiência em gestão empresarial**, atualmente se aprimorando na área de **Tecnologia da Informação**.
@@ -111,19 +113,25 @@ Tecnologias: Node.js • JavaScript • Chart.js • SweetAlert • IMask
 
 # 📊 Estatísticas GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CrisHayashi&show_icons=true&theme=tokyonight)
+
+---
+
+## 📈 Atividade no GitHub
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CrisHayashi&theme=tokyo-night)
 
 ---
 
 # 🔥 Sequência de commits
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CrisHayashi&theme=tokyonight)
 
 ---
 
 # 📈 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisHayashi&layout=compact&theme=tokyonight)
 
 ---
 
@@ -191,6 +199,12 @@ Atuar em projetos que integrem **gestão empresarial e tecnologia**, desenvolven
 
 ---
 
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/CrisHayashi/CrisHayashi/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 # 📫 Contato
 
 💼 LinkedIn  
@@ -198,5 +212,3 @@ https://www.linkedin.com/in/cristiane-hayashi-vasconcelos-lima-999802199
 
 ✉️ Email  
 cristiane.lima@faculdadenovaroma.com.br
-
-
