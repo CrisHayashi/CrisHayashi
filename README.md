@@ -1,4 +1,4 @@
-# 👩‍💼 Cristiane Hayashi Vasconcelos Lima
+👋 Sobre mim
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CrisHayashi&color=blue)
 
@@ -28,23 +28,21 @@ Tecnologias: Kotlin • Android Studio • SQLite
 
 ### 🔐 Sistema de Controle de Acesso com ESP32
 
-Sistema embarcado de **controle de acesso físico**, utilizando microcontrolador ESP32.
-
-Recursos:
+Sistema embarcado de **controle de acesso**, utilizando microcontrolador ESP32, com:
 - Autenticação por senha
 - Controle de servo motor (abertura de acesso)
-- Feedback visual e sonoro
-- Registro de eventos
+- LCD para interface
+- LEDs para feedback
 
-Tecnologias: C++ • ESP32 • Keypad • LCD • Servo Motor
+Tecnologias: C++ • ESP32 • Keypad • LCD I2C • Servo Motor
 
 ---
 
 ### 🔎 PesquisaCEP
 
-Aplicação web que consome a **API ViaCEP** para consulta de endereços.
+Aplicação web para consulta de endereços utilizando a API ViaCEP.
 
-Tecnologias: HTML • CSS • JavaScript • API REST
+Tecnologias: HTML • CSS • JavaScript • REST API
 
 ---
 
@@ -64,13 +62,6 @@ Inclui:
 ### 🐾 Sistema PetShop
 
 Aplicação **fullstack** para gestão de pet shop.
-
-Recursos planejados:
-
-- Autenticação com JWT
-- CRUD completo
-- Dashboard com gráficos
-- Interface moderna
 
 Tecnologias: Node.js • JavaScript • Chart.js • SweetAlert • IMask
 
@@ -180,16 +171,13 @@ Atuação multifuncional em:
 # 🎓 Formação
 
 **Faculdade Nova Roma**  
-Análise e Desenvolvimento de Sistemas *(em andamento)*  
-2024 – atual
+Análise e Desenvolvimento de Sistemas *(em andamento)* 2024 – atual
 
 **Bay State College – Boston (EUA)**  
-Associate Degree – Administração e Varejo  
-2002 – 2004
+Associate Degree – Administração e Varejo 2002 – 2004
 
 **Universidade Católica de Pernambuco**  
-Bacharelado em Administração | Láurea Acadêmica
-1998 - 2001
+Bacharelado em Administração | Láurea Acadêmica 1998 - 2001
 
 ---
 
